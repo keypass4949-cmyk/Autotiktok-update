@@ -1,1 +1,0 @@
-User|Pass|Email|Pass mail|Refresh_token|Client_id
